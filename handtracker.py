@@ -13,7 +13,7 @@ shown = False  # If true , then the
 take_screenshot = False  # If true then take screenshot
 allowed = False  # if true then a screenshot is allowed to be taken
 minimum_area_to_take_screenshot = 10000  # This is the minimum pixel area to be exceeded in order for it to allow a screenshot to be taken
-seconds_to_wait_and_take_screenshot = 5  # I think 5 is too big
+seconds_to_wait_and_take_screenshot = 5  
 threshold = 5
 
 """
