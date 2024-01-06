@@ -1,2 +1,2 @@
 # handtracker
- hand track using python openCV
+The application provides a fundamentally new way of scanning documents: the user scans documents with the camera, and can select the necessary text fragments with the index fingers. As an output, the user receives a ready-made pdf file with all scanned fragments. This project is useful for both individual users and companies. Its main benefit is that the user can take information from different sources in a fragmented way. 
